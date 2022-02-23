@@ -1,0 +1,1 @@
+sap.ui.define(["tcs/fin/payroll/controller/BaseController"],function(n){"use strict";return n.extend("tcs.fin.payroll.controller.App",{onInit:function(){}})});

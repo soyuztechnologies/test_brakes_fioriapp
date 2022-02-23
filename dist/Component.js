@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/UIComponent"],function(t){"use strict";return t.extend("tcs.fin.payroll.Component",{metadata:{manifest:"json"},init:function(){sap.ui.core.UIComponent.prototype.init.apply(this);var t=this.getRouter();t.initialize()},destroy:function(){}})});
